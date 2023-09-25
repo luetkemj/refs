@@ -6,3 +6,4 @@
 - **S3:** [Indexing My Journals](https://web.archive.org/web/20150206044404/http://rozwoundup.typepad.com/roz_wound_up/indexing-my-journals.html)
 - **s4:** [TO MAKE BETTER CREATIVE WORK, AIM FOR ACCEPTABLE, NOT PERFECT](https://herbertlui.net/to-make-better-creative-work-aim-for-acceptable-not-perfect/)
 - **s5:** [The Shrinking Number of Primary Care Physicians Is Reaching a Tipping Point](https://kffhealthnews.org/news/article/lack-of-primary-care-tipping-point/)
+- **s6:** [The demise of primary care in America](https://www.kevinmd.com/2022/12/the-demise-of-primary-care-in-america.html)
