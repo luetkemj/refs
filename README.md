@@ -12,3 +12,4 @@
 - **r7:** [claw feet for spirit box](https://www.amazon.com/Tulead-Furniture-Unfinished-Wardrobe-Bookcase/dp/B08XX72G9W/ref=sr_1_13?crid=3DF7F7MAMHNOZ&keywords=claw%2Bfeet%2Bfor%2Bfurniture%2Bghost&qid=1695754869&sprefix=claw%2Bfeet%2Bfor%2Bfurniture%2Bghost%2Caps%2C109&sr=8-13&th=1)
 - **r8:** [The artist's job is to preserve the human spirit](https://www.youtube.com/watch?v=XrgUKL1wDPw)
 - **r9:** [DSI Initiatives Brainstorm](https://miro.com/app/board/uXjVMhfZRwA=/)
+- **r10:** [XDR All Hands - Sep 27 2023](https://docs.google.com/presentation/d/15J5rbgqAZIvOsuenlL1yIM1Fu2ciubXEqnpz2dBanYQ/edit#slide=id.p)
