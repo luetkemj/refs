@@ -8,3 +8,4 @@
 - **s5:** [The Shrinking Number of Primary Care Physicians Is Reaching a Tipping Point](https://kffhealthnews.org/news/article/lack-of-primary-care-tipping-point/)
 - **s6:** [The demise of primary care in America](https://www.kevinmd.com/2022/12/the-demise-of-primary-care-in-america.html)
 - **s7:** [claw feet for spirit box](https://www.amazon.com/Tulead-Furniture-Unfinished-Wardrobe-Bookcase/dp/B08XX72G9W/ref=sr_1_13?crid=3DF7F7MAMHNOZ&keywords=claw%2Bfeet%2Bfor%2Bfurniture%2Bghost&qid=1695754869&sprefix=claw%2Bfeet%2Bfor%2Bfurniture%2Bghost%2Caps%2C109&sr=8-13&th=1)
+- **s8:** [The artist's job is to preserve the human spirit](https://www.youtube.com/watch?v=XrgUKL1wDPw)
