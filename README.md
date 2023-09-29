@@ -13,3 +13,4 @@
 - **r8:** [The artist's job is to preserve the human spirit](https://www.youtube.com/watch?v=XrgUKL1wDPw)
 - **r9:** [DSI Initiatives Brainstorm](https://miro.com/app/board/uXjVMhfZRwA=/)
 - **r10:** [XDR All Hands - Sep 27 2023](https://docs.google.com/presentation/d/15J5rbgqAZIvOsuenlL1yIM1Fu2ciubXEqnpz2dBanYQ/edit#slide=id.p)
+- **r11:** [Design Tokens Community Group](https://github.com/design-tokens/community-group)
