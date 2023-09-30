@@ -15,3 +15,4 @@
 - **r10:** [XDR All Hands - Sep 27 2023](https://docs.google.com/presentation/d/15J5rbgqAZIvOsuenlL1yIM1Fu2ciubXEqnpz2dBanYQ/edit#slide=id.p)
 - **r11:** [Design Tokens Community Group](https://github.com/design-tokens/community-group)
 - **r12:** [Nighttime Walks in Kyoto](https://andrewlavers.substack.com/p/nighttime-walks-in-kyoto-dissect)
+- **r13:** [design token spec draft 2](https://second-editors-draft.tr.designtokens.org/format/)
