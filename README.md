@@ -16,3 +16,4 @@
 - **r11:** [Design Tokens Community Group](https://github.com/design-tokens/community-group)
 - **r12:** [Nighttime Walks in Kyoto](https://andrewlavers.substack.com/p/nighttime-walks-in-kyoto-dissect)
 - **r13:** [design token spec draft 2](https://second-editors-draft.tr.designtokens.org/format/)
+- **r14:** [Predicting User Interfaces: The KLM](https://medium.com/user-experience-design-1/predicting-user-interfaces-the-klm-d25bb3a2f2d5)
