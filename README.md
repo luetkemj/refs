@@ -21,3 +21,4 @@
 - **r16:** [Enhancing KLM (Keystroke-Level Model) to Fit Touch Screen Mobile Devices ](https://strathprints.strath.ac.uk/49816/1/Karim_MHCI_Final_Camera_Ready.pdf)
 - **r17:** [The secret to a long life](https://radiolab.org/podcast/secret-long-life)
 - **r18:** [Why our sense of time speeds up as we age — and how to slow it down](https://www.nbcnews.com/better/health/why-our-sense-time-speeds-we-age-how-slow-it-ncna936351)
+- **r19:** [A call to minimize distraction and resspect users attention](http://minimizedistraction.com/)
