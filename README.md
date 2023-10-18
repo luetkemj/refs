@@ -24,3 +24,4 @@
 - **r19:** [A call to minimize distraction and resspect users attention](http://minimizedistraction.com/)
 - **r20:** [Atomic Design](https://atomicdesign.bradfrost.com/)
 - **r21:** [The National have nothing new](https://www.npr.org/2023/10/14/1205518291/getting-older-with-or-without-the-national)
+- **r22:** [design systems at github](https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542)
