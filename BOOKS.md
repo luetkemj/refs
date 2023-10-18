@@ -1,3 +1,7 @@
+- [ ] [Laying The Foundations](https://www.amazon.com/Laying-Foundations-Websites-Products-Systematically/dp/B086PPCNCW)
+- [ ] [How To Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502)
+- [x] [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Cal-Newport-audiobook/dp/B07LGDY5PC)
+- [x] [Deep Work](https://www.amazon.com/Deep-Work-Cal-Newport-audiobook/dp/B0189PVAWY)
 - [ ] [The Unwinding](https://www.amazon.com/Unwinding-Inner-History-New-America/dp/0374534608)
 - [ ] [Gettings Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)
 - [ ] [Shopclass as Soul Craft](https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467)
