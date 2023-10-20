@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **r25:** [AirBnB Building a design system](https://airbnb.design/building-a-visual-language/)
 - **r24:** [WeWork Design Sys Case Study](https://medium.com/owl-studios/plasma-design-system-4d63fb6c1afc)
 - **r23:** [DSI viz of current stack request](https://aledade.slack.com/archives/D03MHF27E1G/p1697815945800359)
 - **r22:** [design systems at github](https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542)
