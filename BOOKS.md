@@ -1,3 +1,4 @@
+- [ ] [The Revenge Of Analog](https://www.amazon.com/Revenge-Analog-Real-Things-Matter/dp/1610395719)
 - [ ] [Laying The Foundations](https://www.amazon.com/Laying-Foundations-Websites-Products-Systematically/dp/B086PPCNCW)
 - [ ] [How To Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502)
 - [x] [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Cal-Newport-audiobook/dp/B07LGDY5PC)
