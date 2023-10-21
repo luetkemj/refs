@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **r26:** [Design Documentation Best Practices](https://medium.com/design-bridges/design-docs-6bb34589f7a9)
 - **r25:** [AirBnB Building a design system](https://airbnb.design/building-a-visual-language/)
 - **r24:** [WeWork Design Sys Case Study](https://medium.com/owl-studios/plasma-design-system-4d63fb6c1afc)
 - **r23:** [DSI viz of current stack request](https://aledade.slack.com/archives/D03MHF27E1G/p1697815945800359)
