@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **r30:**
 - **r29:** [Halstack - example component specs](https://developer.dxc.com/halstack/10/overview/introduction/)
 - **r28:** [Aledade _palette.scss](https://gitlab.aledade.com/aledade/outreach/-/blob/main/aledade/static/css/variables/_palette.scss)
 - **r27:** [Aledade Color Study](https://www.figma.com/file/8qaDV4bSCYtuLicm4lSFUg/Dev-handoff---CACP?type=design&node-id=537-4186&mode=design&t=tNla1NwUcLveHoL6-0)
