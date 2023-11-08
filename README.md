@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **r31:** [info on CMS design system family](https://design.cms.gov/getting-started/child-design-systems/?theme=core)
 - **r30:** [Stuffed Animal Hospital](https://realmsofgold.com/)
 - **r29:** [Halstack - example component specs](https://developer.dxc.com/halstack/10/overview/introduction/)
 - **r28:** [Aledade _palette.scss](https://gitlab.aledade.com/aledade/outreach/-/blob/main/aledade/static/css/variables/_palette.scss)
