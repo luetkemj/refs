@@ -2,6 +2,8 @@
 
 **Keep it secret! Keep it safe!**
 
+- **r33:** [design book recs from Stripe](https://www.stripe.press/recommended/design-books.html)
+- **r32:** [Design systems for onboarding](https://www.designsystemsforfigma.com/blog/a-design-system-that-holds-your-hand)
 - **r31:** [info on CMS design system family](https://design.cms.gov/getting-started/child-design-systems/?theme=core)
 - **r30:** [Stuffed Animal Hospital](https://realmsofgold.com/)
 - **r29:** [Halstack - example component specs](https://developer.dxc.com/halstack/10/overview/introduction/)
