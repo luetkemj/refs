@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **r35:** [I'm Done Worrying about "Self-Plagiarism"](https://eliflife.substack.com/p/im-done-worrying-about-self-plagiarism)
 - **r34:** [How to create and publish a vue component library](https://www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update/)
 - **r33:** [design book recs from Stripe](https://www.stripe.press/recommended/design-books.html)
 - **r32:** [Design systems for onboarding](https://www.designsystemsforfigma.com/blog/a-design-system-that-holds-your-hand)
