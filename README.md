@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **40:** [your true self](https://substack.com/profile/161154433-steph-godlove/note/c-49362192) sb.33b1b
 - **r39:** [What makes the boat go faster?](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
 - **r38:** [Don't ever ride stock, customize everything](https://research.library.kutztown.edu/cgi/viewcontent.cgi?article=1011&context=designpioneers#:~:text=%E2%80%9CDon't%20ever%20ride%20stock,Paint%20Pens%20and%20Sumi%20Brushes)
 - **r37:** [Tom Waits does his own investigations](https://soulrideblog.com/2023/10/21/book-talk-tom-waits-on-tom-waits/#:~:text=%E2%80%9CIf%20somebody%20doesn%E2%80%99t%20like%20what%20I%20do%2C%20I%20really%20don%E2%80%99t%20care.%20I%E2%80%99m%20not%20chained%20to%20public%20opinion%2C%20nor%20am%20I%20swayed%20by%20the%20waves%20of%20popular%20trends.%20I%20just%20keep%20on%20doing%20my%20own%20investigations.%E2%80%9D)
