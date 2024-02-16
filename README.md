@@ -2,7 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
-- **41:** [Why details matter](https://www.youtube.com/watch?v=ooTN3dkYXQM)
+- **41:** [Why details matter](https://www.youtube.com/watch?v=ooTN3dkYXQM) sb.24b2.0f2 sb.24b2.0f2a
 - **40:** [your true self](https://substack.com/profile/161154433-steph-godlove/note/c-49362192) sb.33b1b
 - **r39:** [What makes the boat go faster?](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
 - **r38:** [Don't ever ride stock, customize everything](https://research.library.kutztown.edu/cgi/viewcontent.cgi?article=1011&context=designpioneers#:~:text=%E2%80%9CDon't%20ever%20ride%20stock,Paint%20Pens%20and%20Sumi%20Brushes)
@@ -35,7 +35,7 @@
 - **r11:** [Design Tokens Community Group](https://github.com/design-tokens/community-group)
 - **r10:** [XDR All Hands - Sep 27 2023](https://docs.google.com/presentation/d/15J5rbgqAZIvOsuenlL1yIM1Fu2ciubXEqnpz2dBanYQ/edit#slide=id.p)
 - **r9:** [DSI Initiatives Brainstorm](https://miro.com/app/board/uXjVMhfZRwA=/)
-- **r8:** [The artist's job is to preserve the human spirit](https://www.youtube.com/watch?v=XrgUKL1wDPw)
+- **r8:** [The artist's job is to preserve the human spirit](https://www.youtube.com/watch?v=XrgUKL1wDPw) sb.24b2.0f2
 - **r7:** [claw feet for spirit box](https://www.amazon.com/Tulead-Furniture-Unfinished-Wardrobe-Bookcase/dp/B08XX72G9W/ref=sr_1_13?crid=3DF7F7MAMHNOZ&keywords=claw%2Bfeet%2Bfor%2Bfurniture%2Bghost&qid=1695754869&sprefix=claw%2Bfeet%2Bfor%2Bfurniture%2Bghost%2Caps%2C109&sr=8-13&th=1)
 - **r6:** [The demise of primary care in America](https://www.kevinmd.com/2022/12/the-demise-of-primary-care-in-america.html)
 - **r5:** [The Shrinking Number of Primary Care Physicians Is Reaching a Tipping Point](https://kffhealthnews.org/news/article/lack-of-primary-care-tipping-point/)
