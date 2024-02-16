@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **41:** [Why details matter](https://www.youtube.com/watch?v=ooTN3dkYXQM)
 - **40:** [your true self](https://substack.com/profile/161154433-steph-godlove/note/c-49362192) sb.33b1b
 - **r39:** [What makes the boat go faster?](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
 - **r38:** [Don't ever ride stock, customize everything](https://research.library.kutztown.edu/cgi/viewcontent.cgi?article=1011&context=designpioneers#:~:text=%E2%80%9CDon't%20ever%20ride%20stock,Paint%20Pens%20and%20Sumi%20Brushes)
