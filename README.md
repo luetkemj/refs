@@ -2,6 +2,8 @@
 
 **Keep it secret! Keep it safe!**
 
+- **43:** [Celebrating Danger and Uncertainty](https://www.youtube.com/watch?v=4_BibNUzRSE)
+- **42:** [travels in flatland](https://joemorse.substack.com/p/travels-in-flatland)
 - **41:** [Why details matter](https://www.youtube.com/watch?v=ooTN3dkYXQM) sb.24b2.0f2, sb.24b2.0f2a
 - **40:** [your true self](https://substack.com/profile/161154433-steph-godlove/note/c-49362192) sb.33b1b
 - **r39:** [What makes the boat go faster?](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
