@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **44:** [actually useful edc](https://www.youtube.com/watch?v=dpwEhyV-VbA)
 - **43:** [Celebrating Danger and Uncertainty](https://www.youtube.com/watch?v=4_BibNUzRSE) 7e1b2a
 - **42:** [travels in flatland](https://joemorse.substack.com/p/travels-in-flatland) 7e1b2a
 - **41:** [Why details matter](https://www.youtube.com/watch?v=ooTN3dkYXQM) sb.24b2.0f2, sb.24b2.0f2a
