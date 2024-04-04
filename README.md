@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **46:** [pathing by scent](https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding)
 - **45:** [edc for fixing things](https://www.youtube.com/watch?v=7iuEoUkmYWw)
 - **44:** [actually useful edc](https://www.youtube.com/watch?v=dpwEhyV-VbA)
 - **43:** [Celebrating Danger and Uncertainty](https://www.youtube.com/watch?v=4_BibNUzRSE) 7e1b2a
