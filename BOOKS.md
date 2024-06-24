@@ -1,15 +1,15 @@
 
 2024
-- [ ] Small Gods - Terry Pratchett 🔖
-- [ ] The Color of Magic - Terry Pratchett 🔖
-- [ ] The Hero With a Thousand Faces - Joseph Campbell 🔖
-- [ ] Slow Productivity - Cal Newport 🔖
+- [ ] 🔖 Small Gods - Terry Pratchett 
+- [ ] 🔖 The Color of Magic - Terry Pratchett
+- [ ] 🔖 The Hero With a Thousand Faces - Joseph Campbell
+- [ ] 🔖 Slow Productivity - Cal Newport
 - [x] City Of Glass - Paul Auster
-- [x] What I Talk About When I Talk About Running - Haruki Murakami 👻
-- [ ] Novelist As A Vocation - Haruki Murakami 🔖
+- [x] 👻 What I Talk About When I Talk About Running - Haruki Murakami
+- [ ] 🔖 Novelist As A Vocation - Haruki Murakami
 - [x] Hard Boiled Wonderland and the End of the World - Haruki Murakami
 - [x] Hear The Wind Sing - Haruki Murakami
-- [ ] Pinball, 1973 - Haruki Murakami 🔖 🔄
+- [ ] 🔖 🔄 Pinball, 1973 - Haruki Murakami
 - [ ] IQ84 - Haruki Murakami
 - [ ] In the Miso Soup - Ryu Murakami
 
