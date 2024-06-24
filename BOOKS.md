@@ -1,3 +1,20 @@
+
+2024
+- [ ] Small Gods - Terry Pratchett 🔖
+- [ ] The Color of Magic - Terry Pratchett 🔖
+- [ ] The Hero With a Thousand Faces - Joseph Campbell 🔖
+- [ ] Slow Productivity - Cal Newport 🔖
+- [x] City Of Glass - Paul Auster
+- [x] What I Talk About When I Talk About Running - Haruki Murakami
+- [ ] Novelist As A Vocation - Haruki Murakami 🔖
+- [x] Hard Boiled Wonderland and the End of the World - Haruki Murakami
+- [x] Hear The Wind Sing - Haruki Murakami
+- [ ] Pinball, 1973 - Haruki Murakami 🔖 🔄
+- [ ] IQ84 - Haruki Murakami
+- [ ] In the Miso Soup - Ryu Murakami
+
+-----
+
 - [ ] [The Revenge Of Analog](https://www.amazon.com/Revenge-Analog-Real-Things-Matter/dp/1610395719)
 - [ ] [Laying The Foundations](https://www.amazon.com/Laying-Foundations-Websites-Products-Systematically/dp/B086PPCNCW)
 - [ ] [How To Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502)
