@@ -9,9 +9,9 @@
 - [ ] 🔖 Novelist As A Vocation - Haruki Murakami
 - [x] Hard Boiled Wonderland and the End of the World - Haruki Murakami
 - [x] Hear The Wind Sing - Haruki Murakami
-- [ ] 🔖 🔄 Pinball, 1973 - Haruki Murakami
+- [x] Pinball, 1973 - Haruki Murakami
 - [ ] IQ84 - Haruki Murakami
-- [ ] In the Miso Soup - Ryu Murakami
+- [ ] 🔖 🔄 In the Miso Soup - Ryu Murakami
 
 -----
 
