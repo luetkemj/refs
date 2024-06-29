@@ -11,7 +11,7 @@
 - [x] Hear The Wind Sing - Haruki Murakami
 - [x] Pinball, 1973 - Haruki Murakami
 - [ ] IQ84 - Haruki Murakami
-- [ ] 🔖 🔄 In the Miso Soup - Ryu Murakami
+- [x] In the Miso Soup - Ryu Murakami
 
 -----
 
