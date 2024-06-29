@@ -13,6 +13,20 @@
 - [ ] IQ84 - Haruki Murakami
 - [x] In the Miso Soup - Ryu Murakami
 
+2023
+- [x] American Buffalo (terrible, forced myself to finish it)
+- [x] On Writing - Stephen King (great)
+- [x] Carrie - Stephen King (ok)
+- [x] Graveyard Book - Niel Gaiman (great)
+- [x] A hat full of sky - Terry Pratchet (very good)
+- [x] Guards! Guards! - Terry Pratchet (very good)\
+- [x] Happy Go Lucky - David Sedaris (good!)
+- [x] Hark! A Vagrant - Kate Beaton (great)
+- [x] Mort - Terry Pratchet (very good)
+- [x] The Running Mind - Eric Van Scoik (excellent)
+- [x] Digital Minimalism - Cal Newport (excellent)
+- [x] Deep Work - Cal Newport (excellent)
+
 -----
 
 - [ ] [The Revenge Of Analog](https://www.amazon.com/Revenge-Analog-Real-Things-Matter/dp/1610395719)
