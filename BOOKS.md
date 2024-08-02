@@ -10,7 +10,7 @@
 - [x] Hard Boiled Wonderland and the End of the World - Haruki Murakami
 - [x] Hear The Wind Sing - Haruki Murakami
 - [x] Pinball, 1973 - Haruki Murakami
-- [ ] IQ84 - Haruki Murakami
+- [ ] 🔖 IQ84 - Haruki Murakami
 - [x] In the Miso Soup - Ryu Murakami
 - [ ] 🔖 Make It Till You Make It - Brendan Leonard
 
