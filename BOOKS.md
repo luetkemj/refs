@@ -3,7 +3,7 @@
 - [ ] 🔖 Small Gods - Terry Pratchett 
 - [ ] 🔖 The Color of Magic - Terry Pratchett
 - [ ] 🔖 The Hero With a Thousand Faces - Joseph Campbell
-- [ ] 🔖 Slow Productivity - Cal Newport
+- [x] Slow Productivity - Cal Newport
 - [x] City Of Glass - Paul Auster
 - [x] 👻 What I Talk About When I Talk About Running - Haruki Murakami
 - [ ] 🔖 Novelist As A Vocation - Haruki Murakami
@@ -12,6 +12,7 @@
 - [x] Pinball, 1973 - Haruki Murakami
 - [ ] IQ84 - Haruki Murakami
 - [x] In the Miso Soup - Ryu Murakami
+- [ ] 🔖 Make It Till You Make It - Brendan Leonard
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
