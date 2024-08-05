@@ -2,6 +2,7 @@
 
 **Keep it secret! Keep it safe!**
 
+- **47:** [Never play to the gallery - David Bowie](https://www.youtube.com/watch?v=cNbnef_eXBM)
 - **46:** [pathing by scent](https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding)
 - **45:** [edc for fixing things](https://www.youtube.com/watch?v=7iuEoUkmYWw)
 - **44:** [actually useful edc](https://www.youtube.com/watch?v=dpwEhyV-VbA)
