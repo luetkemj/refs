@@ -2,12 +2,12 @@
 
 **Keep it secret! Keep it safe!**
 
-- **47:** [Never play to the gallery - David Bowie](https://www.youtube.com/watch?v=cNbnef_eXBM)
+- **47:** [Never play to the gallery - David Bowie](https://www.youtube.com/watch?v=cNbnef_eXBM) sb.7b3b1c3a1
 - **46:** [pathing by scent](https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding)
 - **45:** [edc for fixing things](https://www.youtube.com/watch?v=7iuEoUkmYWw)
 - **44:** [actually useful edc](https://www.youtube.com/watch?v=dpwEhyV-VbA)
-- **43:** [Celebrating Danger and Uncertainty](https://www.youtube.com/watch?v=4_BibNUzRSE) 7e1b2a
-- **42:** [travels in flatland](https://joemorse.substack.com/p/travels-in-flatland) 7e1b2a
+- **43:** [Celebrating Danger and Uncertainty](https://www.youtube.com/watch?v=4_BibNUzRSE) sb.7e1b2a
+- **42:** [travels in flatland](https://joemorse.substack.com/p/travels-in-flatland) sb.7e1b2a
 - **41:** [Why details matter](https://www.youtube.com/watch?v=ooTN3dkYXQM) sb.24b2.0f2, sb.24b2.0f2a
 - **40:** [your true self](https://substack.com/profile/161154433-steph-godlove/note/c-49362192) sb.33b1b
 - **r39:** [What makes the boat go faster?](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
