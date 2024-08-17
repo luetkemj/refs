@@ -13,7 +13,7 @@
 - [ ] 🔖 IQ84 - Haruki Murakami
 - [x] In the Miso Soup - Ryu Murakami
 - [x] 👻 Make It Till You Make It - Brendan Leonard
-- [ ] 🔖 The Witches - Roald Dahl
+- [x] The Witches - Roald Dahl
 - [ ] 🔖 Encyclopedia of an Ordinary Life - Amy Krouse Rosenthal
 - [ ] The Bend of Luck - Peter and Maria Hoey
 - [ ] Ducks - Kate Beaton
