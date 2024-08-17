@@ -12,7 +12,11 @@
 - [x] Pinball, 1973 - Haruki Murakami
 - [ ] 🔖 IQ84 - Haruki Murakami
 - [x] In the Miso Soup - Ryu Murakami
-- [ ] 🔖 Make It Till You Make It - Brendan Leonard
+- [x] 👻 Make It Till You Make It - Brendan Leonard
+- [ ] 🔖 The Witches - Roald Dahl
+- [ ] 🔖 Encyclopedia of an Ordinary Life - Amy Krouse Rosenthal
+- [ ] The Bend of Luck - Peter and Maria Hoey
+- [ ] Ducks - Kate Beaton
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
