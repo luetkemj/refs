@@ -17,6 +17,7 @@
 - [ ] 🔖 Encyclopedia of an Ordinary Life - Amy Krouse Rosenthal
 - [ ] The Bend of Luck - Peter and Maria Hoey
 - [ ] Ducks - Kate Beaton
+- [x] This Is Water - David Foster Wallace
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
