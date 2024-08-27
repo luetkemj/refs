@@ -16,7 +16,7 @@
 - [x] The Witches - Roald Dahl
 - [ ] 🔖 Encyclopedia of an Ordinary Life - Amy Krouse Rosenthal
 - [ ] The Bend of Luck - Peter and Maria Hoey
-- [ ] 🔖 Ducks - Kate Beaton
+- [x] Ducks - Kate Beaton
 - [x] This Is Water - David Foster Wallace
 - [x] Atomic! - Henry Kuttner (audio book)
 
