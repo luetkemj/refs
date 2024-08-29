@@ -15,7 +15,7 @@
 - [x] 👻 Make It Till You Make It - Brendan Leonard
 - [x] The Witches - Roald Dahl
 - [ ] 🔖 Encyclopedia of an Ordinary Life - Amy Krouse Rosenthal
-- [ ] The Bend of Luck - Peter and Maria Hoey
+- [x] The Bend of Luck - Peter and Maria Hoey
 - [x] Ducks - Kate Beaton
 - [x] This Is Water - David Foster Wallace
 - [x] Atomic! - Henry Kuttner (audio book)
