@@ -19,6 +19,7 @@
 - [x] Ducks - Kate Beaton
 - [x] This Is Water - David Foster Wallace
 - [x] Atomic! - Henry Kuttner (audio book)
+- [ ] 🔖 At the Mountains of Madness - H. P. Lovecraft (audio book)
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
