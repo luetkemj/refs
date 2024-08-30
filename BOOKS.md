@@ -20,6 +20,10 @@
 - [x] This Is Water - David Foster Wallace
 - [x] Atomic! - Henry Kuttner (audio book)
 - [ ] 🔖 At the Mountains of Madness - H. P. Lovecraft (audio book)
+- [x] James and the Giant Peach - Roald Dahl
+- [ ] 🔖 The Hobbit - JRR Tolkien
+- [ ] 📆 👻 The Creative Act, A Way of Being - Rick Rubin
+- [ ] 📆 The Daily Stoic - Ryan Holiday
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
