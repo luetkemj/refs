@@ -6,7 +6,7 @@
 - [x] Slow Productivity - Cal Newport
 - [x] City Of Glass - Paul Auster
 - [x] 👻 What I Talk About When I Talk About Running - Haruki Murakami
-- [ ] 🔖 Novelist As A Vocation - Haruki Murakami
+- [x] Novelist As A Vocation - Haruki Murakami
 - [x] Hard Boiled Wonderland and the End of the World - Haruki Murakami
 - [x] Hear The Wind Sing - Haruki Murakami
 - [x] Pinball, 1973 - Haruki Murakami
