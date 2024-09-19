@@ -1,5 +1,6 @@
 
 2024
+- [x] Kodi - Jared Cullum
 - [ ] 🔖 Small Gods - Terry Pratchett 
 - [ ] 🔖 The Color of Magic - Terry Pratchett
 - [ ] 🔖 The Hero With a Thousand Faces - Joseph Campbell
@@ -19,11 +20,13 @@
 - [x] Ducks - Kate Beaton
 - [x] This Is Water - David Foster Wallace
 - [x] Atomic! - Henry Kuttner (audio book)
-- [ ] 🔖 At the Mountains of Madness - H. P. Lovecraft (audio book)
+- [x] At the Mountains of Madness - H. P. Lovecraft (audio book)
 - [x] James and the Giant Peach - Roald Dahl
 - [ ] 🔖 The Hobbit - JRR Tolkien
 - [ ] 📆 👻 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📆 The Daily Stoic - Ryan Holiday
+- [x] The Mysteries - Bill Watterson
+- [ ] Killing Commendatore - Haruki Murakami
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
