@@ -27,6 +27,13 @@
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [x] The Mysteries - Bill Watterson
 - [ ] Killing Commendatore - Haruki Murakami
+- [x] Oksi - Mari Ahokoivu
+- [x] Akira 1 - Katsuhiro Otomo
+- [x] Akira 2 - Katsuhiro Otomo
+- [x] Akira 3 - Katsuhiro Otomo
+- [ ] Akira 4 - Katsuhiro Otomo
+- [ ] Akira 5 - Katsuhiro Otomo
+- [ ] Akira 6 - Katsuhiro Otomo
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
