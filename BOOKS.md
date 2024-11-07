@@ -38,7 +38,7 @@
 - [x] 💬 Everything Eventually Connects - Sarah Firth
 - [ ] 📗 🔖 Ultra-Something - Brendand Leonard
 - [ ] 📗 ❌ Revenge of Analog - David Sax
-- [ ] 📗 🔖 Shop class as soulcraft - Matthew B. Crawford
+- [ ] 📗 🔖 Shop Class as Soulcraft - Matthew B. Crawford
 - [ ] 💬 Jimmy Corrigan - Chris Ware
 - [ ] 💬 Black Paradox - Junji Ito
 - [ ] 💬 The Loneliness of the Long-Distance Cartoonist - Adrian Tomine
