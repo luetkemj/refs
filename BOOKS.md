@@ -1,39 +1,44 @@
 
 2024
-- [x] Kodi - Jared Cullum
-- [ ] 🔖 Small Gods - Terry Pratchett 
-- [ ] 🔖 The Color of Magic - Terry Pratchett
-- [ ] 🔖 The Hero With a Thousand Faces - Joseph Campbell
-- [x] Slow Productivity - Cal Newport
-- [x] City Of Glass - Paul Auster
+- [x] 💬 Kodi - Jared Cullum
+- [ ] 📗 🔖 Small Gods - Terry Pratchett 
+- [ ] 📗 🔖 The Color of Magic - Terry Pratchett
+- [ ] 📗 ❌ The Hero With a Thousand Faces - Joseph Campbell
+- [x] 📗 Slow Productivity - Cal Newport
+- [x] 💬 City Of Glass - Paul Auster
 - [x] 👻 What I Talk About When I Talk About Running - Haruki Murakami
-- [x] Novelist As A Vocation - Haruki Murakami
-- [x] Hard Boiled Wonderland and the End of the World - Haruki Murakami
-- [x] Hear The Wind Sing - Haruki Murakami
-- [x] Pinball, 1973 - Haruki Murakami
-- [ ] 🔖 IQ84 - Haruki Murakami
-- [x] In the Miso Soup - Ryu Murakami
-- [x] 👻 Make It Till You Make It - Brendan Leonard
-- [x] The Witches - Roald Dahl
-- [ ] 🔖 Encyclopedia of an Ordinary Life - Amy Krouse Rosenthal
-- [x] The Bend of Luck - Peter and Maria Hoey
-- [x] Ducks - Kate Beaton
-- [x] This Is Water - David Foster Wallace
-- [x] Atomic! - Henry Kuttner (audio book)
-- [x] At the Mountains of Madness - H. P. Lovecraft (audio book)
-- [x] James and the Giant Peach - Roald Dahl
-- [ ] 🔖 The Hobbit - JRR Tolkien
-- [ ] 📆 👻 The Creative Act, A Way of Being - Rick Rubin
-- [ ] 📆 The Daily Stoic - Ryan Holiday
-- [x] The Mysteries - Bill Watterson
-- [ ] Killing Commendatore - Haruki Murakami
-- [x] Oksi - Mari Ahokoivu
-- [x] Akira 1 - Katsuhiro Otomo
-- [x] Akira 2 - Katsuhiro Otomo
-- [x] Akira 3 - Katsuhiro Otomo
-- [ ] Akira 4 - Katsuhiro Otomo
-- [ ] Akira 5 - Katsuhiro Otomo
-- [ ] Akira 6 - Katsuhiro Otomo
+- [x] 📗 Novelist As A Vocation - Haruki Murakami
+- [x] 📗 Hard Boiled Wonderland and the End of the World - Haruki Murakami
+- [x] 📗 Hear The Wind Sing - Haruki Murakami
+- [x] 📗 Pinball, 1973 - Haruki Murakami
+- [ ] 📗 🔖 IQ84 - Haruki Murakami
+- [x] 📗 In the Miso Soup - Ryu Murakami
+- [x] 📗 👻 Make It Till You Make It - Brendan Leonard
+- [x] 📗 The Witches - Roald Dahl
+- [ ] 📗 ❌ Encyclopedia of an Ordinary Life - Amy Krouse Rosenthal
+- [x] 💬 The Bend of Luck - Peter and Maria Hoey
+- [x] 💬 Ducks - Kate Beaton
+- [x] 📗 This Is Water - David Foster Wallace
+- [x] 🎧 Atomic! - Henry Kuttner (audio book)
+- [x] 🎧 At the Mountains of Madness - H. P. Lovecraft (audio book)
+- [x] 📗 James and the Giant Peach - Roald Dahl
+- [ ] 📗 ❌ The Hobbit - JRR Tolkien
+- [ ] 📗 📆 👻 The Creative Act, A Way of Being - Rick Rubin
+- [ ] 📗 📆 The Daily Stoic - Ryan Holiday
+- [x] 💬 The Mysteries - Bill Watterson
+- [x] 📗 Killing Commendatore - Haruki Murakami
+- [x] 💬 Oksi - Mari Ahokoivu
+- [x] 💬 Akira 1 - Katsuhiro Otomo
+- [x] 💬 Akira 2 - Katsuhiro Otomo
+- [x] 💬 Akira 3 - Katsuhiro Otomo
+- [x] 💬 Akira 4 - Katsuhiro Otomo
+- [x] 💬 Akira 5 - Katsuhiro Otomo
+- [x] 💬 Akira 6 - Katsuhiro Otomo
+- [x] 💬 Blacksad They all fall down p1 - Diaz Canales & Juanjo Guarnido
+- [x] 💬 Everything Eventually Connects - Sarah Firth
+- [ ] 🔖 📗 Ultra-Something - Brendand Leonard
+- [ ] 📗 ❌ Revenge of Analog - David Sax
+- [ ] 📗 Shop class as soulcraft
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
