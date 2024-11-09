@@ -36,12 +36,12 @@
 - [x] 💬 Akira 6 - Katsuhiro Otomo
 - [x] 💬 Blacksad They all fall down p1 - Diaz Canales & Juanjo Guarnido
 - [x] 💬 Everything Eventually Connects - Sarah Firth
-- [ ] 📗 🔖 Ultra-Something - Brendand Leonard
+- [x] 📗 Ultra-Something - Brendand Leonard
 - [ ] 📗 ❌ Revenge of Analog - David Sax
 - [ ] 📗 🔖 Shop Class as Soulcraft - Matthew B. Crawford
 - [ ] 💬 Jimmy Corrigan - Chris Ware
 - [ ] 💬 Black Paradox - Junji Ito
-- [ ] 💬 The Loneliness of the Long-Distance Cartoonist - Adrian Tomine
+- [x] 💬 The Loneliness of the Long-Distance Cartoonist - Adrian Tomine
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
