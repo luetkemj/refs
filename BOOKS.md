@@ -43,6 +43,8 @@
 - [x] 💬 Black Paradox - Junji Ito
 - [x] 💬 The Loneliness of the Long-Distance Cartoonist - Adrian Tomine
 - [x] 💬 Rusty Brown - Chris Ware
+- [x] A walk in the woods - Bill Bryson
+- [ ] 
 
 
 2023
