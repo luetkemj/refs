@@ -44,8 +44,10 @@
 - [x] 💬 The Loneliness of the Long-Distance Cartoonist - Adrian Tomine
 - [x] 💬 Rusty Brown - Chris Ware
 - [x] 📗 A walk in the woods - Bill Bryson
-- [ ] 
-
+- [x] 📗 A Backpacker's guide to making every ounce count - Steven Lowe
+- [x] 💬 Upside Dawn - Jason
+- [x] 💬 Final Cut - Charles Burns
+- [x] 💬 Roughneck Jeff Lemire
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
