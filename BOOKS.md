@@ -51,6 +51,7 @@
 - [x] 💬 Good Night Hem - Jason
 - [x] 💬 Keeping Two - Jordan Crane
 - [x] 💬 The Underwater Welder - Jeff Lemire
+- [x] 💬 Shelterbelts - Johnathan Dyck
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
