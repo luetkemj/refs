@@ -47,7 +47,10 @@
 - [x] 📗 A Backpacker's guide to making every ounce count - Steven Lowe
 - [x] 💬 Upside Dawn - Jason
 - [x] 💬 Final Cut - Charles Burns
-- [x] 💬 Roughneck Jeff Lemire
+- [x] 💬 Roughneck - Jeff Lemire
+- [x] 💬 Good Night Hem - Jason
+- [x] 💬 Keeping Two - Jordan Crane
+- [x] 💬 The Underwater Welder - Jeff Lemire
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
