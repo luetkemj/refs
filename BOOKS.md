@@ -52,6 +52,7 @@
 - [x] 💬 Keeping Two - Jordan Crane
 - [x] 💬 The Underwater Welder - Jeff Lemire
 - [x] 💬 Shelterbelts - Johnathan Dyck
+- [x] 💬 Berserker Unbound - Jeff Lemire
 
 2023
 - [x] American Buffalo (terrible, forced myself to finish it)
