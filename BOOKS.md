@@ -4,6 +4,7 @@
 - [ ] 📗 🔖 Meditations for Mortals - Oliver Burkeman
 - [ ] 📗 🔖 The End Of Burnout - Jonathan Malesic
 - [x] 💬 The Love Bunglers - Jaime Hernandez
+- [ ] 📗 📆 The Daily Stoic - Ryan Holiday
 
 2024
 - [x] 💬 Kodi - Jared Cullum
