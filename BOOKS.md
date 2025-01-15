@@ -1,6 +1,6 @@
 2025
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
-- [ ] 📗 🔖 The City and its uncertain walls - Haruki Murakami
+- [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [ ] 📗 🔖 Meditations for Mortals - Oliver Burkeman
 - [ ] 📗 🔖 The End Of Burnout - Jonathan Malesic
 - [x] 💬 The Love Bunglers - Jaime Hernandez
