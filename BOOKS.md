@@ -3,6 +3,8 @@
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [ ] 📗 🔖 Meditations for Mortals - Oliver Burkeman
 - [ ] 📗 🔖 The End Of Burnout - Jonathan Malesic
+- [ ] 📗 🔖 Writings - Agnes Martin
+- [ ] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
 - [x] 💬 The Love Bunglers - Jaime Hernandez
 - [ ] 📗 📆 The Daily Stoic - Ryan Holiday
 
