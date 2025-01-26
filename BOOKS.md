@@ -2,12 +2,17 @@
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [ ] 📗 🔖 📆 Meditations for Mortals - Oliver Burkeman
-- [ ] 📗 🔖 The End Of Burnout - Jonathan Malesic
+- [ ] 📗 ❌ The End Of Burnout - Jonathan Malesic
 - [ ] 📗 🔖 Writings - Agnes Martin
 - [ ] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
 - [x] 💬 The Love Bunglers - Jaime Hernandez
 - [ ] 📗 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 🔖 Slow Horses - Mick Herron
+- [x] 💬 Tintin in the Land of the Soviets - Hergé
+- [x] 💬 Tintin in America - Hergé
+- [ ] 📗 🔖 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
+- [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
+- [ ] 📗 🔖 The Obstacle is the Way - Ryan Holiday
 
 2024
 - [x] 💬 Kodi - Jared Cullum
