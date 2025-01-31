@@ -12,7 +12,7 @@
 - [x] 💬 Tintin in America - Hergé
 - [ ] 📗 🔖 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
-- [ ] 📗 🔖 The Obstacle is the Way - Ryan Holiday
+- [x] 📗 🔖 The Obstacle is the Way - Ryan Holiday
 
 2024
 - [x] 💬 Kodi - Jared Cullum
