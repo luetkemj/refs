@@ -10,7 +10,7 @@
 - [ ] 📗 🔖 Slow Horses - Mick Herron
 - [x] 💬 Tintin in the Land of the Soviets - Hergé
 - [x] 💬 Tintin in America - Hergé
-- [ ] 📗 🔖 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
+- [x] 📗 🔖 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [x] 📗 🔖 The Obstacle is the Way - Ryan Holiday
 
