@@ -1,7 +1,7 @@
 2025
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
-- [ ] 📗 🔖 📆 Meditations for Mortals - Oliver Burkeman
+- [x] 📗 🔖 📆 Meditations for Mortals - Oliver Burkeman
 - [ ] 📗 ❌ The End Of Burnout - Jonathan Malesic
 - [ ] 📗 🔖 Writings - Agnes Martin
 - [ ] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
