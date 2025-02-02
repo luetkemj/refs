@@ -1,4 +1,4 @@
-2025 [8]
+2025 [8, 1]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [x] 📗 🔖 📆 Meditations for Mortals - Oliver Burkeman
@@ -14,7 +14,7 @@
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [x] 📗 🔖 The Obstacle is the Way - Ryan Holiday
 
-2024 [43]
+2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
 - [ ] 📗 🔖 Small Gods - Terry Pratchett 
 - [ ] 📗 🔖 The Color of Magic - Terry Pratchett
