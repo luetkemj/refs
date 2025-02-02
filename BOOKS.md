@@ -1,4 +1,4 @@
-2025
+2025 [8]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [x] 📗 🔖 📆 Meditations for Mortals - Oliver Burkeman
@@ -14,7 +14,7 @@
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [x] 📗 🔖 The Obstacle is the Way - Ryan Holiday
 
-2024
+2024 [43]
 - [x] 💬 Kodi - Jared Cullum
 - [ ] 📗 🔖 Small Gods - Terry Pratchett 
 - [ ] 📗 🔖 The Color of Magic - Terry Pratchett
@@ -69,7 +69,7 @@
 - [x] 💬 Shelterbelts - Johnathan Dyck
 - [x] 💬 Berserker Unbound - Jeff Lemire
 
-2023
+2023 [12]
 - [x] American Buffalo (terrible, forced myself to finish it)
 - [x] On Writing - Stephen King (great)
 - [x] Carrie - Stephen King (ok)
