@@ -7,7 +7,7 @@
 - [ ] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
 - [x] 💬 The Love Bunglers - Jaime Hernandez
 - [ ] 📗 📆 The Daily Stoic - Ryan Holiday
-- [ ] 📗 🔖 Slow Horses - Mick Herron
+- [x] 📗 🔖 Slow Horses - Mick Herron
 - [x] 💬 Tintin in the Land of the Soviets - Hergé
 - [x] 💬 Tintin in America - Hergé
 - [x] 📗 🔖 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
