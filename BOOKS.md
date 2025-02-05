@@ -1,18 +1,21 @@
 2025 [8, 1]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
-- [x] 📗 🔖 📆 Meditations for Mortals - Oliver Burkeman
+- [x] 📗 📆 Meditations for Mortals - Oliver Burkeman
 - [ ] 📗 ❌ The End Of Burnout - Jonathan Malesic
 - [ ] 📗 🔖 Writings - Agnes Martin
 - [ ] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
 - [x] 💬 The Love Bunglers - Jaime Hernandez
 - [ ] 📗 📆 The Daily Stoic - Ryan Holiday
-- [x] 📗 🔖 Slow Horses - Mick Herron
+- [x] 📗 Slow Horses - Mick Herron
 - [x] 💬 Tintin in the Land of the Soviets - Hergé
 - [x] 💬 Tintin in America - Hergé
-- [x] 📗 🔖 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
+- [x] 📗 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
-- [x] 📗 🔖 The Obstacle is the Way - Ryan Holiday
+- [x] 📗 The Obstacle is the Way - Ryan Holiday
+- [ ] 🎧 Art & Fear - David Bayles
+- [ ] 📗 🔖 A Brief History of Time - Stephen Hawking
+- [ ] 📗 🔖 The God Equation - Michio Kaku
 
 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
