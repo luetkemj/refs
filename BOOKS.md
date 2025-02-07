@@ -16,7 +16,7 @@
 - [x] 🎧 Art & Fear - David Bayles
 - [ ] 📗 🔖 A Brief History of Time - Stephen Hawking
 - [ ] 📗 🔖 The God Equation - Michio Kaku
-- [ ] 📗 🔖 Comic Sans - Simon Garfield
+- [x] 📗 🔖 Comic Sans - Simon Garfield
 - [ ] 📗 📆 The Creative Act, A Way of Being - Rick Rubin
 
 2024 [43, 5]
