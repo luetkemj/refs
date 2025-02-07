@@ -1,4 +1,4 @@
-2025 [9, 1]
+2025 [10, 1]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [x] 📗 📆 Meditations for Mortals - Oliver Burkeman
