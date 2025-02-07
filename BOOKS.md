@@ -13,7 +13,7 @@
 - [x] 📗 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [x] 📗 The Obstacle is the Way - Ryan Holiday
-- [ ] 🎧 Art & Fear - David Bayles
+- [x] 🎧 Art & Fear - David Bayles
 - [ ] 📗 🔖 A Brief History of Time - Stephen Hawking
 - [ ] 📗 🔖 The God Equation - Michio Kaku
 - [ ] 📗 🔖 Comic Sans - Simon Garfield
