@@ -20,6 +20,7 @@
 - [ ] 📗 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 🎧 Hyperspace - Michio Kaku
 - [ ] 📗 🔖 The Art of Noticing - Rob Walker
+- [ ] 📗 🔖 Killers of the Flower Moon - David Grann
 
 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
