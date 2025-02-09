@@ -4,7 +4,7 @@
 - [x] 📗 📆 Meditations for Mortals - Oliver Burkeman
 - [ ] 📗 ❌ The End Of Burnout - Jonathan Malesic
 - [ ] 📗 🔖 Writings - Agnes Martin
-- [ ] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
+- [x] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
 - [x] 💬 The Love Bunglers - Jaime Hernandez
 - [ ] 📗 📆 The Daily Stoic - Ryan Holiday
 - [x] 📗 Slow Horses - Mick Herron
@@ -19,6 +19,7 @@
 - [x] 📗 🔖 Comic Sans - Simon Garfield
 - [ ] 📗 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 🎧 Hyperspace - Michio Kaku
+- [ ] 📗 🔖 The Art of Noticing - Rob Walker
 
 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
