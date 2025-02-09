@@ -21,6 +21,8 @@
 - [ ] 🎧 Hyperspace - Michio Kaku
 - [ ] 📗 🔖 The Art of Noticing - Rob Walker
 - [ ] 📗 🔖 Killers of the Flower Moon - David Grann
+- [ ] 📗 🔖 Catching the Big Fish - David Lynch
+
 
 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
