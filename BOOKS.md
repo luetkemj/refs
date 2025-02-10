@@ -1,9 +1,9 @@
-2025 [12, 3]
+2025 [13, 3]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [x] 📗 📆 Meditations for Mortals - Oliver Burkeman
 - [ ] 📗 ❌ The End Of Burnout - Jonathan Malesic
-- [ ] 📗 🔖 Writings - Agnes Martin
+- [x] 📗 🔖 Writings - Agnes Martin
 - [x] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
 - [x] 💬 The Love Bunglers - Jaime Hernandez
 - [ ] 📗 📆 The Daily Stoic - Ryan Holiday
