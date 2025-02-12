@@ -1,4 +1,4 @@
-2025 [13, 3]
+2025 [14, 3]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [x] 📗 📆 Meditations for Mortals - Oliver Burkeman
@@ -21,7 +21,7 @@
 - [ ] 🎧 Hyperspace - Michio Kaku
 - [ ] 📗 🔖 The Art of Noticing - Rob Walker
 - [ ] 📗 🔖 Killers of the Flower Moon - David Grann
-- [ ] 📗 🔖 Catching the Big Fish - David Lynch
+- [x] 📗 🔖 Catching the Big Fish - David Lynch
 
 
 2024 [43, 5]
