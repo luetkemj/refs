@@ -1,4 +1,4 @@
-2025 [15, 3]
+2025 [16, 3]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [x] 📗 📆 Meditations for Mortals - Oliver Burkeman
@@ -20,8 +20,10 @@
 - [ ] 📗 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 🎧 Hyperspace - Michio Kaku
 - [ ] 📗 🔖 The Art of Noticing - Rob Walker
-- [x] 📗 🔖 Killers of the Flower Moon - David Grann
-- [x] 📗 🔖 Catching the Big Fish - David Lynch
+- [x] 📗 Killers of the Flower Moon - David Grann
+- [x] 📗 Catching the Big Fish - David Lynch
+- [x] 📗 Sideways Stories From Wayside School - Louis Sachar
+- [ ] 📗 🔖 Wayside School is Falling Down - Louis Sachar
 
 
 2024 [43, 5]
