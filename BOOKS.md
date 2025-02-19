@@ -1,28 +1,29 @@
-## 2025 [17, 3]
+## 2025 [7, 17, 3]
+- [ ] 📆 The Daily Stoic - Ryan Holiday
+- [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
+- [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
+- [ ] 🎧 Hyperspace - Michio Kaku
+- [ ] 📗 🔖 The Art of Noticing - Rob Walker
+- [ ] 📗 🔖 Wayside School is Falling Down - Louis Sachar
+- [ ] 💬 🔖 The Spirit Archives, Vol. 6 - Will Eisner
+### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
-- [x] 📗 📆 Meditations for Mortals - Oliver Burkeman
-- [x] 📗 🔖 Writings - Agnes Martin
-- [x] 📗 🔖 I Walk Between Raindrops - T.C. Boyle
+- [x] 📆 Meditations for Mortals - Oliver Burkeman
+- [x] 📗 Writings - Agnes Martin
+- [x] 📗 I Walk Between Raindrops - T.C. Boyle
 - [x] 💬 The Love Bunglers - Jaime Hernandez
-- [ ] 📗 📆 The Daily Stoic - Ryan Holiday
 - [x] 📗 Slow Horses - Mick Herron
 - [x] 💬 Tintin in the Land of the Soviets - Hergé
 - [x] 💬 Tintin in America - Hergé
 - [x] 📗 Astrophysics for People in a Hurry - Neil DeGrasse Tyson
-- [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [x] 📗 The Obstacle is the Way - Ryan Holiday
 - [x] 🎧 Art & Fear - David Bayles
-- [x] 📗 🔖 Comic Sans - Simon Garfield
-- [ ] 📗 📆 The Creative Act, A Way of Being - Rick Rubin
-- [ ] 🎧 Hyperspace - Michio Kaku
-- [ ] 📗 🔖 The Art of Noticing - Rob Walker
+- [x] 📗 Comic Sans - Simon Garfield
 - [x] 📗 Killers of the Flower Moon - David Grann
 - [x] 📗 Catching the Big Fish - David Lynch
 - [x] 📗 Sideways Stories From Wayside School - Louis Sachar
-- [ ] 📗 🔖 Wayside School is Falling Down - Louis Sachar
 - [x] 📗 Bully - Jim Schutze
-- [ ] 💬 🔖 The Spirit Archives, Vol. 6 - Will Eisner
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
 - ~~📗 A Brief History of Time - Stephen Hawking~~
