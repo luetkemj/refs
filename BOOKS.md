@@ -1,4 +1,4 @@
-2025 [16, 3]
+2025 [17, 3]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [x] 📗 📆 Meditations for Mortals - Oliver Burkeman
@@ -24,7 +24,8 @@
 - [x] 📗 Catching the Big Fish - David Lynch
 - [x] 📗 Sideways Stories From Wayside School - Louis Sachar
 - [ ] 📗 🔖 Wayside School is Falling Down - Louis Sachar
-
+- [x] 📗 Bully - Jim Schutze
+- [ ] 💬 🔖 Spirit v.6 - Will Eisner
 
 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
