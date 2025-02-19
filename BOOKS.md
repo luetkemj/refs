@@ -25,7 +25,7 @@
 - [x] 📗 Sideways Stories From Wayside School - Louis Sachar
 - [ ] 📗 🔖 Wayside School is Falling Down - Louis Sachar
 - [x] 📗 Bully - Jim Schutze
-- [ ] 💬 🔖 Spirit v.6 - Will Eisner
+- [ ] 💬 🔖 The Spirit Archives, Vol. 6 - Will Eisner
 
 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
