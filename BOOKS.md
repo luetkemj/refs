@@ -1,4 +1,4 @@
-## 2025 [7, 17, 3]
+## 2025 [6, 18, 3]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
