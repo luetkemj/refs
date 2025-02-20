@@ -2,7 +2,6 @@
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
-- [ ] 🎧 Hyperspace - Michio Kaku
 - [ ] 📗 🔖 The Art of Noticing - Rob Walker
 - [ ] 📗 🔖 Wayside School is Falling Down - Louis Sachar
 - [ ] 💬 🔖 The Spirit Archives, Vol. 6 - Will Eisner
@@ -24,6 +23,8 @@
 - [x] 📗 Catching the Big Fish - David Lynch
 - [x] 📗 Sideways Stories From Wayside School - Louis Sachar
 - [x] 📗 Bully - Jim Schutze
+- [x] 🎧 Hyperspace - Michio Kaku
+
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
 - ~~📗 A Brief History of Time - Stephen Hawking~~
