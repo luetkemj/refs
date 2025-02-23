@@ -1,6 +1,5 @@
 ## 2025 [7, 19, 4]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
-- [ ] 📗 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 The Art of Noticing - Rob Walker
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
@@ -31,6 +30,7 @@
 - ~~📗 A Brief History of Time - Stephen Hawking~~
 - ~~📗 The God Equation - Michio Kaku~~
 - ~~🎧 Dead Lions - Mick Herron~~
+- ~~📗 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt~~
 
 ## 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
