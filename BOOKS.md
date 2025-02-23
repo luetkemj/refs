@@ -1,10 +1,11 @@
-## 2025 [7, 19, 4]
+## 2025 [7, 19, 5]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 The Art of Noticing - Rob Walker
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 🎧 A Brief History of Time - Stephen Hawking
 - [ ] 📗 Wayside School Gets a Little Stranger - Louis Sachar
+- [ ] 📗 The Color of Magic - Terry Pratchett
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
