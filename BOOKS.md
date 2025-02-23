@@ -1,9 +1,8 @@
-## 2025 [7, 18, 4]
+## 2025 [6, 19, 4]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 🔖 The Art of Noticing - Rob Walker
-- [ ] 📗 🔖 Wayside School is Falling Down - Louis Sachar
 - [ ] 💬 🔖 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 🎧 🔖 A Brief History of Time - Stephen Hawking
 ### 🏁🏁🏁
@@ -25,6 +24,7 @@
 - [x] 📗 Sideways Stories From Wayside School - Louis Sachar
 - [x] 📗 Bully - Jim Schutze
 - [x] 🎧 Hyperspace - Michio Kaku
+- [x] 📗 Wayside School is Falling Down - Louis Sachar
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
 - ~~📗 A Brief History of Time - Stephen Hawking~~
