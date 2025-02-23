@@ -1,10 +1,10 @@
 ## 2025 [6, 19, 4]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
-- [ ] 📗 🔖 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
+- [ ] 📗 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
-- [ ] 📗 🔖 The Art of Noticing - Rob Walker
-- [ ] 💬 🔖 The Spirit Archives, Vol. 6 - Will Eisner
-- [ ] 🎧 🔖 A Brief History of Time - Stephen Hawking
+- [ ] 📗 The Art of Noticing - Rob Walker
+- [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
+- [ ] 🎧 A Brief History of Time - Stephen Hawking
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
