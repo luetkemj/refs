@@ -3,7 +3,6 @@
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 The Art of Noticing - Rob Walker
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
-- [ ] 🎧 A Brief History of Time - Stephen Hawking
 - [ ] 📗 Wayside School Gets a Little Stranger - Louis Sachar
 - [ ] 📗 The Color of Magic - Terry Pratchett
 ### 🏁🏁🏁
@@ -26,6 +25,8 @@
 - [x] 📗 Bully - Jim Schutze
 - [x] 🎧 Hyperspace - Michio Kaku
 - [x] 📗 Wayside School is Falling Down - Louis Sachar
+- [x] 🎧 A Brief History of Time - Stephen Hawking
+
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
 - ~~📗 A Brief History of Time - Stephen Hawking~~
