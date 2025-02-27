@@ -1,10 +1,11 @@
-## 2025 [7, 19, 5]
+## 2025 [6, 20, 6]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 The Art of Noticing - Rob Walker
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 📗 Wayside School Gets a Little Stranger - Louis Sachar
 - [ ] 📗 The Color of Magic - Terry Pratchett
+      
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
@@ -33,6 +34,7 @@
 - ~~📗 The God Equation - Michio Kaku~~
 - ~~🎧 Dead Lions - Mick Herron~~
 - ~~📗 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt~~
+- ~~🎧 And Then There Were None - Agatha Christie~~
 
 ## 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
