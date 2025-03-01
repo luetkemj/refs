@@ -1,4 +1,4 @@
-## 2025 [6, 20, 6]
+## 2025 [5, 21, 6]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 The Art of Noticing - Rob Walker
