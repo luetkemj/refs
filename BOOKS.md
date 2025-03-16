@@ -1,9 +1,10 @@
-## 2025 [5, 21, 6]
+## 2025 [6, 23, 6]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
-- [ ] 📗 The Art of Noticing - Rob Walker
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
-- [ ] 📗 Wayside School Gets a Little Stranger - Louis Sachar
+- [ ] 📗 The Light Fantastic - Terry Pratchett
+- [ ] 📗 Staff Enginner - Will Larson
+- [ ] 📗 Wayside School Beneath the Cloud of Doom - Louis Sachar
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -27,6 +28,8 @@
 - [x] 📗 Wayside School is Falling Down - Louis Sachar
 - [x] 🎧 A Brief History of Time - Stephen Hawking
 - [x] 📗 The Color of Magic - Terry Pratchett
+- [x] 📗 Wayside School Gets a Little Stranger - Louis Sachar
+- [x] 📗 The Art of Noticing - Rob Walker
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
