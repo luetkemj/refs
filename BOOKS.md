@@ -1,10 +1,11 @@
-## 2025 [6, 23, 6]
+## 2025 [7, 23, 6]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 📗 The Light Fantastic - Terry Pratchett
 - [ ] 📗 Staff Enginner - Will Larson
 - [ ] 📗 Wayside School Beneath the Cloud of Doom - Louis Sachar
+- [ ] 📗 Dead Lions - Mick Herron
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
