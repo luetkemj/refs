@@ -5,7 +5,6 @@
 - [ ] 📗 The Light Fantastic - Terry Pratchett
 - [ ] 📗 Staff Enginner - Will Larson
 - [ ] 📗 Wayside School Beneath the Cloud of Doom - Louis Sachar
-- [ ] 📗 Dead Lions - Mick Herron
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -31,6 +30,7 @@
 - [x] 📗 The Color of Magic - Terry Pratchett
 - [x] 📗 Wayside School Gets a Little Stranger - Louis Sachar
 - [x] 📗 The Art of Noticing - Rob Walker
+- [x] 📗 Dead Lions - Mick Herron
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
