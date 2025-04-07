@@ -1,8 +1,7 @@
-## 2025 [7, 23, 6]
+## 2025 [5, 24, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
-- [ ] 📗 The Light Fantastic - Terry Pratchett
 - [ ] 📗 Staff Enginner - Will Larson
 - [ ] 📗 Wayside School Beneath the Cloud of Doom - Louis Sachar
       
@@ -39,6 +38,8 @@
 - ~~🎧 Dead Lions - Mick Herron~~
 - ~~📗 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt~~
 - ~~🎧 And Then There Were None - Agatha Christie~~
+- ~~📗 The Light Fantastic - Terry Pratchett~~
+
 
 ## 2024 [43, 5]
 - [x] 💬 Kodi - Jared Cullum
