@@ -1,4 +1,4 @@
-## 2025 [5, 24, 7]
+## 2025 [5, 25, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
@@ -30,6 +30,7 @@
 - [x] 📗 Wayside School Gets a Little Stranger - Louis Sachar
 - [x] 📗 The Art of Noticing - Rob Walker
 - [x] 📗 Dead Lions - Mick Herron
+- [x] 📗 Shotgun Seamstress, The Complete Zine Collection - Osa Atoe
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
