@@ -1,9 +1,11 @@
-## 2025 [5, 25, 7]
+## 2025 [7, 26, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 📗 Staff Enginner - Will Larson
-- [ ] 📗 Wayside School Beneath the Cloud of Doom - Louis Sachar
+- [ ] 📗 Several shorts sentaences about writing - Verlyn Kinkenborg
+- [ ] 💬 A Radical Shift of Gravity - Tapalansky Glasheen
+- [ ] 📗 Hatchet - Gary Paulsen
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -31,6 +33,7 @@
 - [x] 📗 The Art of Noticing - Rob Walker
 - [x] 📗 Dead Lions - Mick Herron
 - [x] 📗 Shotgun Seamstress, The Complete Zine Collection - Osa Atoe
+- [x] 📗 Wayside School Beneath the Cloud of Doom - Louis Sachar
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
