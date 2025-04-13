@@ -5,6 +5,7 @@
 - [ ] 📗 Staff Enginner - Will Larson
 - [ ] 📗 Several shorts sentaences about writing - Verlyn Kinkenborg
 - [ ] 📗 Hatchet - Gary Paulsen
+- [ ] 📗 Real Tigers - Mick Herron
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
