@@ -1,9 +1,8 @@
-## 2025 [6, 27, 7]
+## 2025 [6, 28, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 📗 Staff Enginner - Will Larson
-- [ ] 📗 Several shorts sentaences about writing - Verlyn Kinkenborg
 - [ ] 📗 Hatchet - Gary Paulsen
 - [ ] 📗 Real Tigers - Mick Herron
       
@@ -35,6 +34,8 @@
 - [x] 📗 Shotgun Seamstress, The Complete Zine Collection - Osa Atoe
 - [x] 📗 Wayside School Beneath the Cloud of Doom - Louis Sachar
 - [x] 💬 A Radical Shift of Gravity - Tapalansky Glasheen
+- [x] 📗 Several shorts sentaences about writing - Verlyn Kinkenborg
+
 
 
 ### ~~❌❌❌~~
