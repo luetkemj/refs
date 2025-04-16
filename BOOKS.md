@@ -1,9 +1,10 @@
-## 2025 [5, 29, 7]
+## 2025 [6, 29, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 📗 Staff Enginner - Will Larson
 - [ ] 📗 Real Tigers - Mick Herron
+- [ ] 📗 Bird By Bird - Anne Lamott
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
