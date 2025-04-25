@@ -1,10 +1,10 @@
-## 2025 [6, 29, 7]
+## 2025 [6, 32, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 📗 Staff Enginner - Will Larson
-- [ ] 📗 Real Tigers - Mick Herron
 - [ ] 📗 Bird By Bird - Anne Lamott
+- [ ] 📗 Spook Street - Mick Herron
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -36,6 +36,9 @@
 - [x] 💬 A Radical Shift of Gravity - Tapalansky Glasheen
 - [x] 📗 Several shorts sentaences about writing - Verlyn Kinkenborg
 - [x] 📗 Hatchet - Gary Paulsen
+- [x] 📗 Real Tigers - Mick Herron
+- [x] 💬 Elephant - Martin Vaughn-James
+- [x] 💬 Projector - Martin Vaughn-James
 
 
 
