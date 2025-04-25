@@ -1,4 +1,4 @@
-## 2025 [6, 32, 7]
+## 2025 [6, 31, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
@@ -37,8 +37,7 @@
 - [x] 📗 Several shorts sentaences about writing - Verlyn Kinkenborg
 - [x] 📗 Hatchet - Gary Paulsen
 - [x] 📗 Real Tigers - Mick Herron
-- [x] 💬 Elephant - Martin Vaughn-James
-- [x] 💬 Projector - Martin Vaughn-James
+- [x] 💬 The Projector and Elephant - Martin Vaughn-James
 
 
 
