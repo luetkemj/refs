@@ -1,4 +1,4 @@
-## 2025 [6, 33, 7]
+## 2025 [6, 34, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
