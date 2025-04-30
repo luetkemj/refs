@@ -141,4 +141,4 @@
 - [ ] [Moonwalking with Einstein](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)
 - [ ] [#unplug - FastCompany](https://www.fastcompany.com/3012521/baratunde-thurston-leaves-the-internet)
 - [ ] [How To Live On 24 Hours A Day](https://www.amazon.com/How-Live-Hours-Day-philosophical/dp/B09W6W6Y76)
-- [ ] [Wendy's Revenge}(https://drawnandquarterly.com/books/wendys-revenge)
+- [ ] [Wendy's Revenge](https://drawnandquarterly.com/books/wendys-revenge)
