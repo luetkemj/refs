@@ -3,8 +3,8 @@
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 📗 Staff Enginner - Will Larson
-- [ ] 📗 Bird By Bird - Anne Lamott
 - [ ] 📗 Spook Street - Mick Herron
+- [ ] 📗 What I Talk About When I Talk About Running - Haruki Murakami
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -40,6 +40,7 @@
 - [x] 💬 The Projector and Elephant - Martin Vaughn-James
 - [x] 💬 The Sculptor - Scott McCloud
 - [x] 💬 Slash them All - Antoine Maillard
+- [x] 📗 Bird By Bird - Anne Lamott
 
 
 ### ~~❌❌❌~~
