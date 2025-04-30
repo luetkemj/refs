@@ -34,7 +34,7 @@
 - [x] 📗 Shotgun Seamstress, The Complete Zine Collection - Osa Atoe
 - [x] 📗 Wayside School Beneath the Cloud of Doom - Louis Sachar
 - [x] 💬 A Radical Shift of Gravity - Tapalansky Glasheen
-- [x] 📗 Several shorts sentaences about writing - Verlyn Kinkenborg
+- [x] 📗 Several Short Sentences About Writing - Verlyn Kinkenborg
 - [x] 📗 Hatchet - Gary Paulsen
 - [x] 📗 Real Tigers - Mick Herron
 - [x] 💬 The Projector and Elephant - Martin Vaughn-James
