@@ -1,10 +1,9 @@
-## 2025 [6, 34, 7]
+## 2025 [5, 35, 7]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
 - [ ] 📗 Staff Enginner - Will Larson
 - [ ] 📗 Spook Street - Mick Herron
-- [ ] 📗 What I Talk About When I Talk About Running - Haruki Murakami
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -41,6 +40,7 @@
 - [x] 💬 The Sculptor - Scott McCloud
 - [x] 💬 Slash them All - Antoine Maillard
 - [x] 📗 Bird By Bird - Anne Lamott
+- [x] 📗 What I Talk About When I Talk About Running - Haruki Murakami
 
 
 ### ~~❌❌❌~~
