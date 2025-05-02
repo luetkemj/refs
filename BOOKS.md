@@ -1,9 +1,8 @@
-## 2025 [5, 35, 7]
+## 2025 [4, 35, 9]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
-- [ ] 💬 The Spirit Archives, Vol. 6 - Will Eisner
-- [ ] 📗 Staff Enginner - Will Larson
 - [ ] 📗 Spook Street - Mick Herron
+- [ ] 📗 Hear the Wind Sing - Haruki Murakami
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -51,6 +50,8 @@
 - ~~📗 Metaphonics, The Field Works Listener’s Guide - Stuart Hyatt~~
 - ~~🎧 And Then There Were None - Agatha Christie~~
 - ~~📗 The Light Fantastic - Terry Pratchett~~
+- ~~💬 The Spirit Archives, Vol. 6 - Will Eisner~~
+- ~~📗 Staff Enginner - Will Larson~~
 
 
 ## 2024 [43, 5]
