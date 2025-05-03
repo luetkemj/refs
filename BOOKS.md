@@ -1,8 +1,7 @@
-## 2025 [5, 35, 9]
+## 2025 [4, 36, 9]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 Spook Street - Mick Herron
-- [ ] 📗 Hear the Wind Sing - Haruki Murakami
 - [ ] 💬 The Cage - Martin Vaughn-James
       
 ### 🏁🏁🏁
@@ -41,6 +40,7 @@
 - [x] 💬 Slash them All - Antoine Maillard
 - [x] 📗 Bird By Bird - Anne Lamott
 - [x] 📗 What I Talk About When I Talk About Running - Haruki Murakami
+- [x] 📗 Hear the Wind Sing - Haruki Murakami
 
 
 ### ~~❌❌❌~~
