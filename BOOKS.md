@@ -1,4 +1,4 @@
-## 2025 [4, 35, 9]
+## 2025 [5, 35, 9]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 Spook Street - Mick Herron
