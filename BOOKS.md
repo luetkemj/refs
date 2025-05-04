@@ -1,8 +1,7 @@
-## 2025 [4, 36, 9]
+## 2025 [3, 37, 9]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 Spook Street - Mick Herron
-- [ ] 💬 The Cage - Martin Vaughn-James
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -41,6 +40,7 @@
 - [x] 📗 Bird By Bird - Anne Lamott
 - [x] 📗 What I Talk About When I Talk About Running - Haruki Murakami
 - [x] 📗 Hear the Wind Sing - Haruki Murakami
+- [x] 💬 The Cage - Martin Vaughn-James
 
 
 ### ~~❌❌❌~~
