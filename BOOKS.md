@@ -1,7 +1,8 @@
-## 2025 [3, 37, 9]
+## 2025 [4, 38, 9]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 Spook Street - Mick Herron
+- [ ] 📗 Pinball, 1973 - Haruki Murakami
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -41,6 +42,7 @@
 - [x] 📗 What I Talk About When I Talk About Running - Haruki Murakami
 - [x] 📗 Hear the Wind Sing - Haruki Murakami
 - [x] 💬 The Cage - Martin Vaughn-James
+- [x] 📗 The Strange Library - Haruki Murakami
 
 
 ### ~~❌❌❌~~
