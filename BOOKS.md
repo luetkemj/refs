@@ -1,8 +1,7 @@
-## 2025 [4, 38, 9]
+## 2025 [3, 40, 9]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
-- [ ] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [ ] 📗 Spook Street - Mick Herron
-- [ ] 📗 Pinball, 1973 - Haruki Murakami
+- [ ] 📗 The T-Shirts I Love - Haruki Murakami
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -43,6 +42,8 @@
 - [x] 📗 Hear the Wind Sing - Haruki Murakami
 - [x] 💬 The Cage - Martin Vaughn-James
 - [x] 📗 The Strange Library - Haruki Murakami
+- [x] 📗 Pinball, 1973 - Haruki Murakami
+- [x] 📆 The Creative Act, A Way of Being - Rick Rubin
 
 
 ### ~~❌❌❌~~
