@@ -1,7 +1,8 @@
-## 2025 [3, 40, 9]
+## 2025 [4, 41, 9]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 Spook Street - Mick Herron
 - [ ] 📗 The T-Shirts I Love - Haruki Murakami
+- [ ] 📗 The Magician's Nephew - C.S. Lewis
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -44,7 +45,7 @@
 - [x] 📗 The Strange Library - Haruki Murakami
 - [x] 📗 Pinball, 1973 - Haruki Murakami
 - [x] 📆 The Creative Act, A Way of Being - Rick Rubin
-
+- [x] 💬 Blurry - Dash Shaw
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
