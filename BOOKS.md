@@ -1,7 +1,5 @@
-## 2025 [4, 41, 9]
+## 2025 [2, 42, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
-- [ ] 📗 Spook Street - Mick Herron
-- [ ] 📗 The T-Shirts I Love - Haruki Murakami
 - [ ] 📗 The Magician's Nephew - C.S. Lewis
       
 ### 🏁🏁🏁
@@ -46,6 +44,7 @@
 - [x] 📗 Pinball, 1973 - Haruki Murakami
 - [x] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [x] 💬 Blurry - Dash Shaw
+- [x] 📗 The T-Shirts I Love - Haruki Murakami
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
@@ -57,6 +56,8 @@
 - ~~📗 The Light Fantastic - Terry Pratchett~~
 - ~~💬 The Spirit Archives, Vol. 6 - Will Eisner~~
 - ~~📗 Staff Enginner - Will Larson~~
+- ~~📗 Spook Street - Mick Herron~~
+- ~~📗 The City Of Mist - Carlos Ruiz Zafón~~
 
 
 ## 2024 [43, 5]
