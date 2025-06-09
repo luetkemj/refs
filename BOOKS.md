@@ -1,6 +1,6 @@
-## 2025 [2, 42, 11]
+## 2025 [2, 43, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
-- [ ] 📗 The Magician's Nephew - C.S. Lewis
+- [ ] 📗 The Lion the Witch and the Wardrobe - C.S. Lewis
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -45,6 +45,7 @@
 - [x] 📆 The Creative Act, A Way of Being - Rick Rubin
 - [x] 💬 Blurry - Dash Shaw
 - [x] 📗 The T-Shirts I Love - Haruki Murakami
+- [x] 📗 The Magician's Nephew - C.S. Lewis
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
