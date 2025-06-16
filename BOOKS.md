@@ -1,4 +1,4 @@
-## 2025 [2, 43, 11]
+## 2025 [4, 43, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 The Lion the Witch and the Wardrobe - C.S. Lewis
 - [ ] 📗 A Wild Sheep Chase - Haruki Murakami
