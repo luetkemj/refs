@@ -1,6 +1,8 @@
 ## 2025 [2, 43, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 The Lion the Witch and the Wardrobe - C.S. Lewis
+- [ ] 📗 A Wild Sheep Chase - Haruki Murakami
+- [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams 
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
