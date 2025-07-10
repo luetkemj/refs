@@ -1,7 +1,7 @@
-## 2025 [4, 43, 11]
+## 2025 [4, 44, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
-- [ ] 📗 The Lion the Witch and the Wardrobe - C.S. Lewis
 - [ ] 📗 A Wild Sheep Chase - Haruki Murakami
+- [ ] 📗 The Horse and His Boy - C.S. Lewis
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams 
       
 ### 🏁🏁🏁
@@ -48,6 +48,7 @@
 - [x] 💬 Blurry - Dash Shaw
 - [x] 📗 The T-Shirts I Love - Haruki Murakami
 - [x] 📗 The Magician's Nephew - C.S. Lewis
+- [x] 📗 The Lion the Witch and the Wardrobe - C.S. Lewis
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
