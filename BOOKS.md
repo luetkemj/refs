@@ -1,7 +1,8 @@
 ## 2025 [3, 45, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 A Wild Sheep Chase - Haruki Murakami
-- [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams 
+- [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
+- [ ] 📗 Prince Caspian - C.S. Lewis
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
