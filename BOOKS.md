@@ -1,8 +1,8 @@
-## 2025 [3, 45, 11]
+## 2025 [4, 46, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 A Wild Sheep Chase - Haruki Murakami
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
-- [ ] 📗 Prince Caspian - C.S. Lewis
+- [ ] 📗 A System For Writing - Bob Doto
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -50,6 +50,7 @@
 - [x] 📗 The Magician's Nephew - C.S. Lewis
 - [x] 📗 The Lion the Witch and the Wardrobe - C.S. Lewis
 - [x] 📗 The Horse and His Boy - C.S. Lewis
+- [x] 📗 Prince Caspian - C.S. Lewis
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
