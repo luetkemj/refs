@@ -1,8 +1,7 @@
-## 2025 [6, 46, 11]
+## 2025 [5, 47, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 A Wild Sheep Chase - Haruki Murakami
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
-- [ ] 📗 A System For Writing - Bob Doto
 - [ ] 📗 In Defense of Food - Michael Pollon
 - [ ] 📗 Voyage of the Dawn Treader - C.S. Lewis
       
@@ -53,6 +52,8 @@
 - [x] 📗 The Lion the Witch and the Wardrobe - C.S. Lewis
 - [x] 📗 The Horse and His Boy - C.S. Lewis
 - [x] 📗 Prince Caspian - C.S. Lewis
+- [x] 📗 A System For Writing - Bob Doto
+
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
