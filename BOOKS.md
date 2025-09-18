@@ -1,8 +1,6 @@
-## 2025 [5, 47, 11]
+## 2025 [3, 49, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
-- [ ] 📗 A Wild Sheep Chase - Haruki Murakami
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
-- [ ] 📗 In Defense of Food - Michael Pollon
 - [ ] 📗 Voyage of the Dawn Treader - C.S. Lewis
       
 ### 🏁🏁🏁
@@ -53,6 +51,8 @@
 - [x] 📗 The Horse and His Boy - C.S. Lewis
 - [x] 📗 Prince Caspian - C.S. Lewis
 - [x] 📗 A System For Writing - Bob Doto
+- [x] 📗 In Defense of Food - Michael Pollon
+- [x] 📗 A Wild Sheep Chase - Haruki Murakami
 
 
 ### ~~❌❌❌~~
