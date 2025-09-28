@@ -1,8 +1,11 @@
-## 2025 [3, 50, 11]
+## 2025 [7, 50, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
 - [ ] 📗 Voyage of the Dawn Treader - C.S. Lewis
 - [ ] 📗 Kitchen Confidential - Anthony Bourdain
+- [ ] 📗 Tiny Experiments - Anne-Laure Le Cunff
+- [ ] 📗 Drive your Plow Over The Bones Of the Dead - Olga Tokarczuk
+- [ ] 📗 Storyworth - Matthew Dicks
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
