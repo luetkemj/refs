@@ -1,4 +1,4 @@
-## 2025 [7, 50, 11]
+## 2025 [7, 51, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
 - [ ] 📗 Voyage of the Dawn Treader - C.S. Lewis
@@ -58,6 +58,7 @@
 - [x] 📗 In Defense of Food - Michael Pollon
 - [x] 📗 A Wild Sheep Chase - Haruki Murakami
 - [x] 💬 Goddamn This War! - Jacques Tardi & Jean-Pierre Verney
+- [x] 💬 Discipline - Dash Shaw
 
 
 ### ~~❌❌❌~~
