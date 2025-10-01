@@ -6,6 +6,7 @@
 - [ ] 📗 Tiny Experiments - Anne-Laure Le Cunff
 - [ ] 📗 Drive your Plow Over The Bones Of the Dead - Olga Tokarczuk
 - [ ] 📗 Storyworth - Matthew Dicks
+- [ ] 📗 Getting Things Done - David Allen
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
