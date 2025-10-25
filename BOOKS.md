@@ -1,11 +1,10 @@
-## 2025 [7, 55, 11]
+## 2025 [6, 56, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
 - [ ] 📗 Tiny Experiments - Anne-Laure Le Cunff
 - [ ] 📗 Drive your Plow Over The Bones Of the Dead - Olga Tokarczuk
 - [ ] 📗 Storyworthy - Matthew Dicks
 - [ ] 📗 The Silver Chair - C.S. Lewis
-- [ ] 📗 Dopamine Nation - Anna Lembke
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -63,6 +62,7 @@
 - [x] 📗 Kitchen Confidential - Anthony Bourdain
 - [x] 📗 Voyage of the Dawn Treader - C.S. Lewis
 - [x] 💬 Fishflies - Jeff Lemire
+- [x] 📗 Dopamine Nation - Anna Lembke
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
