@@ -1,9 +1,8 @@
-## 2025 [6, 56, 11]
+## 2025 [5, 57, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
 - [ ] 📗 Tiny Experiments - Anne-Laure Le Cunff
 - [ ] 📗 Drive your Plow Over The Bones Of the Dead - Olga Tokarczuk
-- [ ] 📗 Storyworthy - Matthew Dicks
 - [ ] 📗 The Silver Chair - C.S. Lewis
       
 ### 🏁🏁🏁
@@ -63,6 +62,7 @@
 - [x] 📗 Voyage of the Dawn Treader - C.S. Lewis
 - [x] 💬 Fishflies - Jeff Lemire
 - [x] 📗 Dopamine Nation - Anna Lembke
+- [x] 📗 Storyworthy - Matthew Dicks
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
