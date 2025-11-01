@@ -1,4 +1,4 @@
-## 2025 [6, 57, 11]
+## 2025 [6, 58, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
 - [ ] 📗 Tiny Experiments - Anne-Laure Le Cunff
@@ -64,6 +64,7 @@
 - [x] 💬 Fishflies - Jeff Lemire
 - [x] 📗 Dopamine Nation - Anna Lembke
 - [x] 📗 Storyworthy - Matthew Dicks
+- [x] 💬 Here - Richard McGuire
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
