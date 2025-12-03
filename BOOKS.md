@@ -1,9 +1,8 @@
-## 2025 [5, 59, 11]
+## 2025 [4, 60, 11]
 - [ ] 📆 The Daily Stoic - Ryan Holiday
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
 - [ ] 📗 Tiny Experiments - Anne-Laure Le Cunff
 - [ ] 📗 Drive your Plow Over The Bones Of the Dead - Olga Tokarczuk
-- [ ] 📗 Atomic Habits - James Clear
       
 ### 🏁🏁🏁
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
@@ -65,6 +64,7 @@
 - [x] 📗 Storyworthy - Matthew Dicks
 - [x] 💬 Here - Richard McGuire
 - [x] 📗 The Silver Chair - C.S. Lewis
+- [x] 📗 Atomic Habits - James Clear
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
