@@ -1,5 +1,4 @@
-## 2025 [5, 60, 11]
-- [ ] 📆 The Daily Stoic - Ryan Holiday
+## 2025 [5, 61, 11]
 - [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
 - [ ] 📗 Tiny Experiments - Anne-Laure Le Cunff
 - [ ] 📗 Drive your Plow Over The Bones Of the Dead - Olga Tokarczuk
@@ -66,6 +65,8 @@
 - [x] 💬 Here - Richard McGuire
 - [x] 📗 The Silver Chair - C.S. Lewis
 - [x] 📗 Atomic Habits - James Clear
+- [x] 📆 The Daily Stoic - Ryan Holiday
+
 
 ### ~~❌❌❌~~
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
