@@ -1,10 +1,11 @@
-## 2025 [5, 61, 11]
-- [ ] 📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams
-- [ ] 📗 Tiny Experiments - Anne-Laure Le Cunff
-- [ ] 📗 Drive your Plow Over The Bones Of the Dead - Olga Tokarczuk
-- [ ] 📗 The Last Battle - C.S. Lewis
-      
+## 2026 [1, 0, 0]
+Before the Coffe Gets Cold - Toshikazu Kawaguchi
+
 ### 🏁🏁🏁
+
+### ~~❌❌❌~~
+
+## 2025 [62, 14]
 - [x] 💬 Blacksad, They all Fall Down p2 - Juan Diaz Canales & Juanjo Guarnido
 - [x] 📗 The City and its uncertain walls - Haruki Murakami
 - [x] 📆 Meditations for Mortals - Oliver Burkeman
@@ -66,9 +67,7 @@
 - [x] 📗 The Silver Chair - C.S. Lewis
 - [x] 📗 Atomic Habits - James Clear
 - [x] 📆 The Daily Stoic - Ryan Holiday
-
-
-### ~~❌❌❌~~
+- [x] 📗 The Last Battle - C.S. Lewis
 - ~~📗 The End Of Burnout - Jonathan Malesic~~
 - ~~📗 A Brief History of Time - Stephen Hawking~~
 - ~~📗 The God Equation - Michio Kaku~~
@@ -80,6 +79,9 @@
 - ~~📗 Staff Enginner - Will Larson~~
 - ~~📗 Spook Street - Mick Herron~~
 - ~~📗 The City Of Mist - Carlos Ruiz Zafón~~
+- ~~📗 Procedural Generation In Game Design - Tanya Short & Tarn Adams~~
+- ~~📗 Tiny Experiments - Anne-Laure Le Cunff~~
+- ~~📗 Drive your Plow Over The Bones Of the Dead - Olga Tokarczuk~~
 
 
 ## 2024 [43, 5]
