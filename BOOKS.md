@@ -1,5 +1,5 @@
 ## 2026 [1, 0, 0]
-Before the Coffe Gets Cold - Toshikazu Kawaguchi
+1. Before the Coffe Gets Cold - Toshikazu Kawaguchi [010126-]
 
 ### 🏁🏁🏁
 
