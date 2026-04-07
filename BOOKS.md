@@ -5,6 +5,8 @@
 ### 🏁🏁🏁
 1. 💬 Reckless - Ed Brubaker, Sean Phillips [011626-011626]
 2. 💬 Friend of the Devil - Ed Brubaker, Sean Phillips [011626-011626]
+3. 💬 Housecat Trouble #1 - Mason Dickerson [040626]
+4. 💬 Housecat Trouble #2 - Mason Dickerson [040726]
 
 ### ~~❌❌❌~~
 
