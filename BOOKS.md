@@ -1,6 +1,6 @@
 ## 2026 [4, 2, 0]
 1. 📗 Before the Coffe Gets Cold - Toshikazu Kawaguchi [010126-]
-2. 📗 The Conform Crisis - Michael Easter [011926-]
+2. 📗 The Comfort Crisis - Michael Easter [011926-]
 
 ### 🏁🏁🏁
 1. 💬 Reckless - Ed Brubaker, Sean Phillips [011626-011626]
